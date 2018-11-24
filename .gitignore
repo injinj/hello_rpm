@@ -1,3 +1,7 @@
+# Build directories
+/bin
+/rpmbuild
+
 # Prerequisites
 *.d
 
